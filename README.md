@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, I'm Sebastian Vergara Velasquez</h1>
+<h1 align="center">Hi 👋</h1>
 
